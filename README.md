@@ -1,4 +1,4 @@
-#Data Science Tools and Ecosystem - (IBM - DS - Exercise)
+# Data Science Tools and Ecosystem - (IBM - DS - Exercise)
   **Description**: Repository created to share the python notebook created to as part of the exrcise of Tools for Data Science - Module 6
 
   ## 🛠 Technologies
