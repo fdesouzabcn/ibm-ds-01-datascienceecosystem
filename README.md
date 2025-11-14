@@ -1,9 +1,9 @@
-# Project Name
-  **Description**: A brief explanation of the project's objective.
+#Data Science Tools and Ecosystem - (IBM - DS - Exercise)
+  **Description**: Repository created to share the python notebook created to as part of the exrcise of Tools for Data Science - Module 6
 
   ## 🛠 Technologies
-  - Frontend: React, Tailwind
-  - Backend: Java, MongoDB
+  - Frontend: N/A
+  - Backend: Python
 
   ## 🚀 Installation
   1. Clone the repository: `git clone ...`
